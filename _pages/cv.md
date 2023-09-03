@@ -42,35 +42,22 @@ Work experience
   * Clemson University, Clemson, SC
   * Advisor: Dr. Rachel Getman
 * TCAD Engineer Intern, 2019
-  * TSMC North America, San Jose, CA, US
+  * TSMC North America, San Jose, CA
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational Chemistry
+  * Density Functional Theory, First Principles, Molecular Dynamics,\\
+    Monte Carlo, Finite Element Analysis
+* Atomistic Modeling
+  * VASP, CP2K, Gaussian, Quantum ATK, LAMMPS
+* Programming and Data Science
+  * Python, C/C++, SQL, Bash/Linux, Docker, Singularity\\
+    RDKit, Machine Learning, HPC \& Cloud Computing 
+* Software & Tools
+  * LaTeX, MATLAB, Docker, Git, Mathematica, Tecplot, Origin
+* Experimental
+  * BET, GC, HPLC, XRD, AFM, TEM, Raman, IR
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+

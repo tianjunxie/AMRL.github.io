@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![OIG](./images/OIG.jpeg =300x)
+<img src="./images/OIG.jpeg" width="300" height="300" />
 
 Our goal is to conduct cutting-edge research on materials for energy applications ranging from catalysis, recycling, batteries, and other subject matters. We aim to empower research via simulations and experiments jointly.
 
