@@ -11,22 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Chemical Engineering, Clemson University, 2019
+* M.S. in Chemical Engineering, University of Pennsylvania, 2013
+* B.S. in Chemical Engineering, Nanjing Forestry University, 2011
+
+Awards
+======
+* Research Allocation Award, XSEDE (Now ACCESS), 2021
+  * Corresponding PI
+  * Desiginated 22, 550 hours of GPU time
+  * Desiginated 315, 000 hours of CPU time
+  * Valued over \$16, 000 upon appointment
+* Student Travel Award, 2019
+  * American Institute of Chemical Engineers Annual Meeting
+  * Catalysis and Reaction Engineering Division (CRE)
+* 1st place of Poster Competition, 2019
+  * Southeastern Catalysis Society (SECS)
+  * Division of the North American Catalysis Society (NAM)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor, 2023-Present
+  * NC A&T State University, Greensboro, NC
+* Simulation Engineer, 2022-2023
+  * Microvast, Lake Mary, FL
+* Postdoctoral Researcher, 2020-2021
+  * University of Delaware, Newark, DE
+  * Advisor: Dr. Dionisios Vlachos
+* Research Assistant, 2014-2019
+  * Clemson University, Clemson, SC
+  * Advisor: Dr. Rachel Getman
+* TCAD Engineer Intern, 2019
+  * TSMC North America, San Jose, CA, US
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
