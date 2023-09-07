@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience"
+title: ""
 collection: teaching
 type: "Process Design I"
 permalink: /teaching/2023-fall-teaching.md
